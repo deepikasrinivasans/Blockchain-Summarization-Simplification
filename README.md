@@ -27,9 +27,9 @@ Blockchain is a decentralized digital ledger that records transactions in blocks
 A blockchain is like a shared online notebook that many computers keep at the same time. Each page (block) is locked to the one before it, so no one can secretly change old records. To add new pages, the network agrees using rules like Proof of Work or Proof of Stake. People sign their transactions with digital keys, and smart contracts are small programs that run automatically when conditions are met.
 ## Real-World Examples:
 
-###### - Money Transfers: People use Bitcoin or stablecoins to send money across countries in minutes without banks.
-###### - Supply Chains: Companies record the journey of food, medicines, or clothes from production to store shelves, so customers know their origin.
-###### - Blockchain is also popular for NFTs (digital collectibles) and land registry systems that are difficult to tamper with.
+##### - Money Transfers: People use Bitcoin or stablecoins to send money across countries in minutes without banks.
+##### - Supply Chains: Companies record the journey of food, medicines, or clothes from production to store shelves, so customers know their origin.
+##### - Blockchain is also popular for NFTs (digital collectibles) and land registry systems that are difficult to tamper with.
 
 ## Comparison Table: Blockchain Types
 
