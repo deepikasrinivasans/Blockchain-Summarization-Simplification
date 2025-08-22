@@ -1,4 +1,4 @@
-# Experiment 2: Blockchain Summarization & Simplification
+# Experiment 2:Evaluating AI-Powered Summarization of Blockchain Technology
 ## Aim
 To create a clear undergraduate-level summary (120–150 words) of a 500-word article titled “The Basics of Blockchain Technology”, and then revise it into a simpler version with at least two real-world applications of blockchain.
 ## Algorithm
