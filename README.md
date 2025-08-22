@@ -75,6 +75,8 @@ Definition: A decentralized, immutable, and distributed digital ledger.
 ## Visualizing Blockchain Technology
 This image illustrates how blocks containing transaction data are linked together using unique hashes, forming a secure and distributed chain across a network of computers.
 This infographic provides a visual overview of the diverse industries being transformed by blockchain technology, from finance and logistics to healthcare and digital identity.
+
+
 <img width="580" height="557" alt="image" src="https://github.com/user-attachments/assets/1a7f7902-6e7f-41bb-93c6-e34cafe4848b" />
 
 ## Dynamic Understanding of Its Impact
